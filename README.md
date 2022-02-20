@@ -1,3 +1,4 @@
 # git-star
 this is second trail.
-Hello all, this is star user1.
+I am practising git with star user1.
+Hello all, this is star user2.
